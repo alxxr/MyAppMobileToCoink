@@ -1,0 +1,7 @@
+{
+  "name": "MyAppMobileToCoink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
